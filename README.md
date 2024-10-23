@@ -8,4 +8,5 @@ Helo my name is Reinaldo👋!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo44&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto trabalhando atualmente:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reinaldo44&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reinaldo44&repo=question-back)](https://github.com/Reinaldo44/question-back.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reinaldo44&repo=questions-front)](https://github.com/Reinaldo44/questions-front.git)
