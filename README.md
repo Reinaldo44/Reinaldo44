@@ -1,7 +1,7 @@
 Helo my name is Reinaldo👋!
 
 - 🔭 Estou trabalhando em uma aplicação Web no momento, com as tecnologias Java e Angular.
-- 🌱 Estou estudando python para automação Web.
+- 🌱 Estou estudando Microservice.
 - 📫 Você pode me contatar pelo meu Linkedin: <a href="https://www.linkedin.com/in/reinaldosilvadev/">Reinaldo Dev<a/>
 
 ### Principais linguagens utilizadas:
